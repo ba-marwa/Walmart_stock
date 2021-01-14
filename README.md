@@ -11,4 +11,4 @@ Question 3:What are the column names?<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Adj Close<br/>
 <br/>
 Question 4: What does the Schema look like? <br/>
-
+![alt text](https://github.com/ba-marwa/Walmart_stock/blob/main/ScreenShots/Shema.png)
