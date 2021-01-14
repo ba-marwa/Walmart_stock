@@ -10,10 +10,10 @@ Question 3:What are the column names?<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Adj Close<br/>
 <br/>
 Question 4: What does the Schema look like? <br/>
-![alt text](https://github.com/ba-marwa/Walmart_stock/blob/main/ScreenShots/Shema.png)
+![alt text](https://github.com/ba-marwa/Walmart_stock/blob/main/ScreenShots/Shema.png)<br/>
 <br/>
 Question 6: What day had the Peak High in Price?
-![alt text](https://github.com/ba-marwa/Walmart_stock/blob/main/ScreenShots/Max%20High.png)
+![alt text](https://github.com/ba-marwa/Walmart_stock/blob/main/ScreenShots/Max%20High.png)<br/>
 <br/>
 Question 7:What is the mean of the Close column?<br/>
 The average of the Close column as 72,39.<br/>
