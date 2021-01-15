@@ -29,7 +29,7 @@ Question 10 : What percentage of the time was the High greater than 80 dollars ?
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- The percentage of the time where the High was greater than 80 dollars : 9,1414 %. <br/>
 <br/> 
 Question 11: What is the max High per year ? <br/>
-![alt text](https://github.com/ba-marwa/Walmart_stock/blob/main/ScreenShots/avg%20per%20month.png)<br/>
+![alt text](https://github.com/ba-marwa/Walmart_stock/blob/main/ScreenShots/avg%20per%20year.png)<br/>
 <br/>
 Question 12: What is the average Close for each Calendar Month? <br/>
 ![alt text](https://github.com/ba-marwa/Walmart_stock/blob/main/ScreenShots/avg%20per%20month.png)<br/>
