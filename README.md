@@ -32,6 +32,7 @@ Question 11: What is the max High per year ? <br/>
 ![alt text](https://github.com/ba-marwa/Walmart_stock/blob/main/ScreenShots/avg%20per%20month.png)<br/>
 <br/>
 Question 12: What is the average Close for each Calendar Month? <br/>
+![alt text](https://github.com/ba-marwa/Walmart_stock/blob/main/ScreenShots/avg%20per%20month.png)<br/>
 
 
 
